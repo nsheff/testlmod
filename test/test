@@ -1,0 +1,6 @@
+#%Module
+set appDir          $env(APP_DIR)
+set version         2.0.3
+
+prereq testset
+setenv	TESTVAR	"$appDir/git/$version/bin"

@@ -1,0 +1,3 @@
+#%Module
+
+setenv	APP_DIR	"/apps"
